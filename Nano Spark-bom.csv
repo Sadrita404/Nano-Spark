@@ -1,0 +1,11 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB Board ","The main Board",5,2.10,"https://jlcpcb.com","jlcpcb"
+"USB-A male connector (MOLEX 48037-0001)","For the connector",10,0.95,"https://www.flyrobo.in/usb-type-4-pin-male-connector-socket?tracking=ads&srsltid=AfmBOophN-P9nD74dwqi0C-oFKkGJusqnoVQ49TIJ7Mypo4yTeV0mhCgyZ8","flyrobo"
+"Pin Headers (2x5)","For the connector",5,0.24,"https://robu.in/product/1-month-warranty-921/","robu"
+"ATTINY13A-PU-MICROCHIP","The main chip ",3,5.71,"https://robu.in/product/attiny13a-pu-microchip-8-bit-mcu-low-power-high-performance-avr-attiny-family-attiny13-series-microcontrollers-avr/","robu"
+"8 Pin DIP IC Socket Base Adaptor","For the chip ",5,0.26,"https://robu.in/product/8-pin-dip-ic-socket-base-adaptor-pack-of-10/","robu"
+"AMS1117 SMD voltage regulator ","For Power control",10,0.85,"https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeFunRL4eOrQvteNCIPCpvtP&gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-LzS-G1lXeBRDXJ5HAJ51iWCYA7cqD56WnAvNN4MPlpvitz_v-2KbQaAvZoEALw_wcB","robu"
+"1k Ohm 0.5W (moq 10)","resistor (for USB)",10,0.11,"https://robu.in/product/1k-ohm-0-5w-metal-film-resistor-pack-of-50/","robu"
+"68Ω (moq 10) ","resistor (for USB)",10,0.12,"https://robu.in/product/68-ohm-1w-metal-film-resistor-pack-of-40/","robu"
+"SMD 1206 LED (moq 10 )","The main led",10,0.20,"https://robu.in/product/1206-surface-mount-led-orange-50-pcs/","robu"
+"470Ω (moq 10)","For the leds",10,0.11,"https://robu.in/product/470-ohm-0-25w-metal-film-resistor-pack-of-100/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeFunRL4eOrQvteNCIPCpvtP&gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-IUyQc4-tC1BtG_hmUfrMOzM83BJ4yaenllbA7nt-rOSE-xktnRRhgaApbSEALw_wcB","robu"
