@@ -24,6 +24,8 @@ To learn more about electronics and PCB design and also because the Digispark bo
 ## Programming
 
 The attiny chip needs to be flashed with a bootloader so that you can use it without a programmer (like an Arduino board). 
+#### [Bootloader](https://github.com/Sadrita404/Nano-Spark/tree/main/Boot%20loader)
+
 **[GUIDE](https://circuitdigest.com/microcontroller-projects/attiny85-ic-programming-through-usb-using-digispark-bootloader)**
 
 These tutorials use the micronucleus bootloader used by the Digispark attiny boards.
@@ -80,3 +82,58 @@ There is an onboard LED hardwired to PB1 so you can get your blink sketch runnin
 </div>
 
 
+<div align="center">
+  <h2> Bill of Materials </h2>
+</div>
+
+| Name | Purpose | Qty | Total (USD) | Link | Distributor |
+| :--- | :--- | :---: | :---: | :---: | :--- |
+| PCB Board | The main Board | 5 | 2.10 | [jlcpcb](https://jlcpcb.com) | jlcpcb |
+| USB-A male connector (MOLEX 48037-0001) | For the connector | 10 | 0.95 | [flyrobo](https://www.flyrobo.in/usb-type-4-pin-male-connector-socket?tracking=ads&srsltid=AfmBOophN-P9nD74dwqi0C-oFKkGJusqnoVQ49TIJ7Mypo4yTeV0mhCgyZ8) | flyrobo |
+| Pin Headers (2x5) | For the connector | 5 | 0.24 | [robu](https://robu.in/product/1-month-warranty-921/) | robu |
+| ATTINY13A-PU-MICROCHIP | The main chip | 3 | 5.71 | [robu](https://robu.in/product/attiny13a-pu-microchip-8-bit-mcu-low-power-high-performance-avr-attiny-family-attiny13-series-microcontrollers-avr/) | robu |
+| 8 Pin DIP IC Socket Base Adaptor | For the chip | 5 | 0.26 | [robu](https://robu.in/product/8-pin-dip-ic-socket-base-adaptor-pack-of-10/) | robu |
+| AMS1117 SMD voltage regulator | For Power control | 10 | 0.85 | [robu](https://robu.in/product/ams1117-3-3v-1a-sot-223-voltage-regulator-ic-pack-of-5-ics/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeFunRL4eOrQvteNCIPCpvtP&gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-LzS-G1lXeBRDXJ5HAJ51iWCYA7cqD56WnAvNN4MPlpvitz_v-2KbQaAvZoEALw_wcB) | robu |
+| 1k Ohm 0.5W (moq 10) | resistor (for USB) | 10 | 0.11 | [robu](https://robu.in/product/1k-ohm-0-5w-metal-film-resistor-pack-of-50/) | robu |
+| 68Ω (moq 10) | resistor (for USB) | 10 | 0.12 | [robu](https://robu.in/product/68-ohm-1w-metal-film-resistor-pack-of-40/) | robu |
+| SMD 1206 LED (moq 10 ) | The main led | 10 | 0.20 | [robu](https://robu.in/product/1206-surface-mount-led-orange-50-pcs/) | robu |
+| 470Ω (moq 10) | For the leds | 10 | 0.11 | [robu](https://robu.in/product/470-ohm-0-25w-metal-film-resistor-pack-of-100/?gad_source=1&gad_campaignid=17427802703&gbraid=0AAAAADvLFWeFunRL4eOrQvteNCIPCpvtP&gclid=Cj0KCQjwr4jSBhCSARIsAOX1E-IUyQc4-tC1BtG_hmUfrMOzM83BJ4yaenllbA7nt-rOSE-xktnRRhgaApbSEALw_wcB) | robu |
+
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; max-width: 600px;">
+    <tr>
+      <td style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 12px; padding: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
+        <div style="font-size: 16px; font-weight: 600; color: #24292f; margin-bottom: 12px; border-bottom: 1px solid #d0d7de; padding-bottom: 8px;">
+           Final Summary Title
+        </div>
+        <table width="100%" border="0" style="border-collapse: collapse; font-size: 14px; color: #57606a;">
+          <tr>
+            <td style="padding: 4px 0;">Component Subtotal:</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$10.65</td>
+          </tr>
+          <tr>
+            <td style="padding: 4px 0;">Shipping Cost(incl. PCB):</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$10.92</td>
+          </tr>
+          <tr>
+            <td style="padding: 4px 0; padding-bottom: 8px;">Tax:</td>
+            <td align="right" style="font-weight: 500; color: #24292f;">$1.5</td>
+          </tr>
+          <tr style="border-top: 1px dashed #d0d7de;">
+            <td style="padding: 12px 0 0 0; font-weight: 600; color: #24292f; font-size: 15px;">Net Total Cost:</td>
+            <td align="right" style="padding: 12px 0 0 0; font-weight: bold; color: #2da44e; font-size: 18px;">$23.07</td>
+          </tr>
+          <tr>
+            <td style="padding: 2px 0 0 0; font-size: 11px; color: #8c959f;">Projected Budget Allocation:</td>
+            <td align="right" style="padding: 2px 0 0 0; font-weight: 500; font-size: 12px; color: #8c959f;">$24</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+**Project Under Hack Club**
